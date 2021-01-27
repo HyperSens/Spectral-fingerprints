@@ -1,8 +1,8 @@
 ## Spectral-fingerprints
-## Data and codes for the Spectral fingerprints of plant pathogen infection diverge from abiotic signals study
+## Data and codes for the Divergent abiotic spectral pathways unravel<i> Xylella fastidiosa</i> stress signals across species study
 This repository contains the codes and data needed to reproduce the following article:
 
-Zarco-Tejada*, P.J., Poblete, T., Camino, C., Gonzalez-Dugo, V, Calderon, R., Hornero-Luque, A., Hernandez-Clemente, R., Román-Écija, M., Velasco-Amo, M.P., Landa, B.B., Beck, P.S.A., Saponari, M., Boscia, D., Navas-Cortes, J.A., <b> Spectral fingerprints of plant pathogen infection diverge from abiotic signals</b>
+Zarco-Tejada*, P.J., Poblete, T., Camino, C., Gonzalez-Dugo, V, Calderon, R., Hornero-Luque, A., Hernandez-Clemente, R., Román-Écija, M., Velasco-Amo, M.P., Landa, B.B., Beck, P.S.A., Saponari, M., Boscia, D., Navas-Cortes, J.A., <b>Divergent abiotic spectral pathways unravel <i>Xylella fastidiosa</i> stress signals across species</b>
 
 ___
 ### INSTRUCTIONS
