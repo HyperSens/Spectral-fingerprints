@@ -1,4 +1,3 @@
-## Divergent spectral responses
 ## Data and codes for the research paper "Divergent abiotic spectral pathways unravel<i> Xylella fastidiosa</i> stress signals across species"
 This repository contains the codes and data needed to reproduce the following article:
 
