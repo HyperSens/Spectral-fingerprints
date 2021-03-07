@@ -1,4 +1,4 @@
-## Data and codes for the research paper "Divergent abiotic spectral pathways unravel<i> Xylella fastidiosa</i> stress signals across species"
+## Data and codes for the research paper "Divergent abiotic spectral pathways unravel pathogen stress signals across species"
 This repository contains the codes and data needed to reproduce the following article:
 
 Zarco-Tejada*, P.J., Poblete, T., Camino, C., Gonzalez-Dugo, V, Calderon, R., Hornero-Luque, A., Hernandez-Clemente, R., Román-Écija, M., Velasco-Amo, M.P., Landa, B.B., Beck, P.S.A., Saponari, M., Boscia, D., Navas-Cortes, J.A., <b>Divergent abiotic spectral pathways unravel <i>Xylella fastidiosa</i> stress signals across species</b>
